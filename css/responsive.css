@@ -1,0 +1,146 @@
+@media (max-width:575.98px){
+    .content h1{
+        font-size: 25px;
+        
+    }
+    .content h6{
+        font-size: 11px;
+        
+    }
+    .vertical{
+        width: 206px;
+    }
+    
+    
+    .my_img {
+ width: 280px !important;
+    } 
+
+    .about-me .content h3{
+        font-size: 11px;
+        
+    }
+
+    .about-me .content p{
+        text-align: justify;
+    }
+    .working_process .title h1 {
+        font-size: 25px;}
+
+
+    .working_process .title h5 {
+        font-size: 11px;}
+
+        .project{
+            margin-top: 15px;
+        }
+        
+    
+}
+
+/* small device start */
+@media (min-width:576px) and (max-width:767.98px){
+    
+    
+    .about-me .content p{
+        text-align: justify;
+    }
+    .bottom-exprience{
+        margin-top: 10px;
+    }
+    .expreince .details p {
+        text-align: justify;
+        font-size: 15px;}
+}
+
+/* small device end */
+
+
+/* medium device start */
+@media (min-width:768px) and (max-width:991.98px){
+    
+    .about-me .content p{
+        text-align: justify;
+    }
+    .content h1{
+        font-size: 42px;
+        font-weight: 800;
+        color: #fff;
+    }
+    .content h6{
+        font-size: 17px;
+    }
+    .vertical{
+        
+        width: 332px;
+        margin-left: 3px;
+        
+    }
+    .bottom-exprience{
+        margin-top: 20px;
+    }
+
+
+    
+    .project{
+        
+        width: 100%;
+        height: 150px;
+    }
+}
+
+
+/* medium large device end */
+
+
+/* large device start */
+
+@media (min-width: 992px) and (max-width:1199.98px) { 
+    
+    .content h1{
+        font-size: 55px;
+    }
+    .content h6{
+        font-size: 24px;
+    }
+    
+    .vertical{
+         width: 439px;
+        margin-left: 9px; 
+    }
+    .content p{
+        text-align: justify;
+    }
+    .about-me .my_img{
+        width: 379px;
+    }
+}
+
+
+/* large device end */
+
+
+/* x-large device start */
+
+
+@media (min-width: 1200px) and  (max-width: 1399.99px){
+    
+
+}
+
+
+
+    
+/* x-large device end */
+
+
+
+/* medium device end */
+
+/* 1440 screen size start */
+@media (min-width: 1400px){
+
+  
+
+}
+/* 1440 screen size end */

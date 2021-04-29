@@ -1,0 +1,312 @@
+@font-face {
+    font-family: 'Raleway', sans-serif;
+}
+
+/* header start */
+.header {
+    background-color: #6a6a7b;
+    background-image: linear-gradient(43deg, #6a6a7b 0%, #31697d 46%, #6a6a7b 100%);
+    padding: 15px 0;
+
+
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, .55);
+    border-color: #fff !important;
+    outline: none !important;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: none !important;
+    font-size: 22px;
+    color: #fff;
+}
+
+.navbar-light .navbar-toggler-icon i {
+
+    font-size: 35px !important;
+    color: #fff;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.menu li a {
+    color: #fff !important;
+    font-size: 18px !important;
+
+}
+
+
+/* banner-content */
+
+.content {
+    padding: 80px 0;
+}
+
+.content h1 {
+    font-size: 59px;
+    font-weight: 800;
+    color: #fff;
+}
+
+.content h6 {
+    font-size: 25px;
+    font-weight: 300;
+    color: #fff;
+}
+
+.vertical {
+    border-top: 2px solid #fff;
+    width: 463px;
+    margin-left: 43px;
+}
+
+/* header end */
+
+/* about me start */
+
+.about-me {
+    padding: 80px 0;
+}
+
+.about-me .content h3 {
+    font-size: 18px;
+    font-weight: 800;
+    color: #737373;
+}
+
+.about-me .content p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #7f7f7f;
+}
+
+.about-me .content button {
+    background-color: #ff2b4a;
+    padding: 10px 30px;
+    color: #fff;
+}
+
+.btn {
+    border-radius: 0 !important;
+}
+
+.btn:focus {
+    box-shadow: none !important;
+}
+
+/* about me END */
+
+/* work in process start */
+
+.working_process{
+    background-color: #f6f6f6;
+    margin-top: -80px;
+}
+
+.title{
+    padding: 80px 0;
+}
+.working_process .title h1{
+    font-size: 40px;
+    color: #000;
+    font-weight: 800;
+}
+.working_process .title h5{
+    font-size: 16px;
+    color: #6f6f6f;
+}
+
+
+.my-work .item-1{
+    background-color: #10c6fc;
+    
+}
+.my-work .item-1 img{
+    margin-top: 40px;
+}
+.my-work .item-1 p{
+    margin-top: 23px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #f4fbff;
+}
+.my-work .item-2{
+    background-color: #835aeb;
+    
+}
+.my-work .item-2 img{
+    margin-top: 40px;
+}
+.my-work .item-2 p{
+    margin-top: 23px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #f4fbff;
+}
+.my-work .item-3{
+    background-color: #002453;
+    
+}
+.my-work .item-3 img{
+    margin-top: 40px;
+}
+.my-work .item-3 p{
+    margin-top: 23px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #f4fbff;
+}
+.my-work .item-4{
+    background-color: #ff2b4a;
+    
+}
+.my-work .item-4 img{
+    margin-top: 40px;
+}
+.my-work .item-4 p{
+    margin-top: 23px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #f4fbff;
+}
+
+
+/* work in process end */
+
+
+
+/* education start */
+
+.education{
+    background-color: #6a6a7b;
+    background-image: linear-gradient(43deg, #6a6a7b 0%, #31697d 46%, #6a6a7b 100%);
+    padding: 80px 0;
+    color: #dbdde1;
+}
+
+.expreince{
+    background-color: #56657d;
+    padding: 20px 25px;
+}
+
+.expreince .expreience_title h1{
+    margin: 20px 0 20px 0;
+    font-size: 26px;
+    font-weight: 700;
+
+}
+
+.expreince .details{
+    text-align: justify;
+    color: #b8bcc5;
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+
+.expreince .details p{
+text-align: justify;
+}
+
+.hr-custom{
+    background-color: #fff ;
+    margin-top: 30px;
+}
+
+.expreince_2{
+    background-color: #56657d;
+    
+}
+
+hr{
+    margin: 0;
+}
+/* education end */
+
+
+/* latest work start */
+
+.portfolio{
+    background-color: #fff;
+    margin-top: -80px;
+}
+
+.portfolio .title{
+    padding: 80px 0;
+}
+.portfolio .title h1{
+    font-size: 40px;
+    color: #000;
+    font-weight: 800;
+}
+.portfolio .title h5{
+    font-size: 16px;
+    color: #6f6f6f;
+}
+
+.project{
+    padding: 10px 0;
+    width: 100%;
+    height: 200px;
+}
+
+.project_1{
+
+    background-color: #10c6fc;
+    ;}
+.project_2{
+
+    background-color: #835aeb;
+    }
+.project_3{
+
+    background-color: #002453;
+    }
+    .project_4{
+        
+        background-color: #ff2b4a;
+    }
+    .project_5{
+        
+        background-color: #002453;
+    }
+    .project_6{
+        
+        background-color: #ff2b4a;
+    }
+
+
+/* latest work end */
+
+
+/* testimonial start */
+
+.slider{
+    background-color: #64cbc0;
+margin-top: 80px;
+}
+
+.testimonial{
+    padding: 80px 0;
+}
+
+.testimonial h1{
+    color: #317688;
+}
+.testimonial p{
+    text-align: justify;
+    font-size: 16px;
+}
+
+.name h3{
+
+    font-size: 18px;
+    font-weight: 500;
+color: #295a55;
+}
+
+/* testimonial end */
